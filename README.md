@@ -160,6 +160,8 @@ Daniel O Geronimo – Analista e Desenvovedor de Sistemas
 Licença
 MIT
 
+(((Verificar pasta docs e img com dados complementares))))
+
 Vídeo‑pitch
 
 https://youtu.be/EY0cjPTicIE
