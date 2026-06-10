@@ -10,8 +10,11 @@ Imagens do frontend 01 pra executar as funções no frontend com endereços de c
 Imagens do REMIX IDE 01
 
 01
+
 <img width="1309" height="877" alt="passo 01 criando contrato" src="https://github.com/user-attachments/assets/34eea4d6-8ef1-4171-aa73-7bbf6a06da2a" />
 02
+
 <img width="997" height="829" alt="passo 02 artista envia serviço concluido" src="https://github.com/user-attachments/assets/88debd27-8c3b-4116-a21b-e8b071bb4887" />
 03
+
 <img width="946" height="886" alt="passo 03 confirma e realiza pagamento" src="https://github.com/user-attachments/assets/23608204-3068-444a-8c6a-6ec5d2abab30" />
